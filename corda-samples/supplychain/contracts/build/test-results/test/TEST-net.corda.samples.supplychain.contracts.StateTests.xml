@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.corda.samples.supplychain.contracts.StateTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-22T13:59:51" hostname="LAPTOP-UFS3NFPK" time="0.0">
+  <properties/>
+  <testcase name="hasAmountFieldOfCorrectType" classname="net.corda.samples.supplychain.contracts.StateTests" time="0.0"/>
+  <system-out><![CDATA[?[37m[INFO] 19:29:51,368 [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/C:/Users/Anvith/Dropbox/PC/Desktop/Work/Corda/samples-java/Accounts/supplychain/contracts/build/generated-custom-cordapps/20230122-135948.271-8EFC09339E08A51D/custom-cordapp_1_12_30dfc9c4-94e3-4252-8b23-9f02909e4215.jar, rootPackageName=null)
+?[m?[37m[INFO] 19:29:51,368 [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/C:/Users/Anvith/Dropbox/PC/Desktop/Work/Corda/samples-java/Accounts/supplychain/contracts/build/generated-custom-cordapps/20230122-135948.271-8EFC09339E08A51D/custom-cordapp_1_12_30dfc9c4-94e3-4252-8b23-9f02909e4215.jar
+?[m?[37m[INFO] 19:29:51,393 [Test worker] ClassloaderUtils. - Contracts loading for 'C:\Users\Anvith\AppData\Local\Temp\attachment5283017608564329604.jar' took 8 msec
+?[m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
